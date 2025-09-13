@@ -40,7 +40,7 @@ react-project/
 Live demo:  https://06todo-app.netlify.app/
 
 Screenshots:  
-![App screenshot](public/Screenshot%202025-09-13%20200115.png)
+![App screenshot](To-do-with-localStorage/public/Screenshot%202025-09-13%20200115.png)
 
 ---
 
